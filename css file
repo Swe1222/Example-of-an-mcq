@@ -1,0 +1,15 @@
+p{
+display:inline-block;}
+p.b{
+display:inline-block;}
+h1{
+color:purple;}
+body{
+padding-left:60px;
+}
+ol{
+list-style-type:none;}
+fieldset{
+background:-webkit-linear-gradient(bisque,darksalmon);
+padding-left:60px;
+width:900px;}
