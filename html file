@@ -1,0 +1,37 @@
+<html>
+<head>
+<link rel="stylesheet" href="w1.css">
+</head>
+<body>
+<fieldset><b>
+<h1>HTML Multiple choice questions (MCQ's)</h1>
+<p>1) HTML stands for -</p><ol>
+<li><p>a. High Text Machine Language</p></li>
+<li><P>b. Hyper Text and Links Markup Language</p></li>
+<li><p>c. Hyper Text Markup Language</p></li>
+<li><p>d. None of these</p></li></ol>
+<p>2) The correct sequence of HTML tags for starting a webpage is -</p><ol>
+<li><p> a. Head, Title, HTML, body</p></li>
+<li><p>b. HTML, Body, Title, Head</p></li>
+<li><p> c. HTML, Head, Title, Body</p></li>
+<li><p>d. HTML, Head, Title, Body</p><li></ol>
+<p>3) Which of the following element is responsible for making the text bold in HTML?</p><ol>
+<li><p >a.</p><p ><</p><p>pre</p><p >></p></li>
+<li><p>b.</p><p><</p><p>a</p><p>></p></li>
+<li><p>c.</p><p><</p><p >b</p><p >></p></li>
+<li><p>d.</p><p><</p><p >br</p><p>></p></li></ol>
+<p>Which of the following tag is used for inserting the largest heading in HTML?</p><ol>
+<li><p class="a">a.</p><p class="a"><</p><p class="a">h3</p><p class="a">></p></li>
+<li><p class="a">b.</p><p class="a"><</p><p class="a">h1</p><p class="a">></p></li>
+<li><p class="a">c.</p><p class="a"><</p><p class="a">h5</p><p class="a">></p></li>
+<li><p class="a">d.</p><p class="a"><</p><p class="a">h6</p><p class="a">></p></li></ol>
+<p>5) Which of the following tag is used to insert a line-break in HTML?</p><ol>
+<li><p class="a">b.</p><p class="a"><</p><p class="a">br</p><p class="a">></p></li>
+<li><p class="a">b.</p><p class="a"><</p><p class="a">a</p><p class="a">></p></li>
+<li><p class="a">c.</p><p class="a"><</p><p class="a">pre</p><p class="a">></p></li>
+<li><p class="a">d.</p><p class="a"><</p><p class="a">b</p><p class="a">></p></li></ol>  
+<p>6) How to create an unordered list ( a list with the list items in bullets ) in HTML? </p>
+</b>
+</fieldset>
+</body>
+</html>
